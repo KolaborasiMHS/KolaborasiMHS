@@ -1,0 +1,2 @@
+rootProject.name='KolaborasiMHS'
+include ':app'
